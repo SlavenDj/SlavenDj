@@ -5,7 +5,7 @@
   
 - 💬 Ask me about **Full stack development, Sveltekit, NextJS, Tailwind CSS, Typescript**
 
-- 📫 How to reach me: **slavendjervida@gmail.com**
+- 📫 How to reach me: **female-kalan0s@m1.guardemail.com**
 
 ### About Me
 
